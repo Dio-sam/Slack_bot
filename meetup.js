@@ -77,3 +77,7 @@ server.listen(process.env.PORT);
 console.log('Server running at http://127.0.0.1:3005/oauth');
 
 module.exports=meetup;
+// PORT=3005
+// MEETUP_APIKEY=k00eg26nbgfbma2oalh52gbrn4
+// MEETUP_SECRETKEY=7a79dugscr3aut4i2cj9akcbp9
+// SLACK_TOKEN=xoxb-233881072134-606760933232-A4tRNSRumpfpTdfGnntxTYrz
