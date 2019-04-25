@@ -1,0 +1,19 @@
+{
+  "name": "meetup_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.7.4",
+    "dotenv": "^7.0.0",
+    "meetup-api": "^1.4.37",
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "slackbots": "^1.2.0"
+  }
+}
